@@ -1,0 +1,22 @@
+.topBox {
+    background-color: lightgreen;
+    width: 200px;
+    height: 50px;
+    border: 6px soild green;
+    border-top: double green;
+    border-bottom: dashed green;
+    border-left: solid green;
+    border-right: solid green;
+}
+
+.bottomBox {
+    background-color: lightgreen;
+    width: 150px;
+    height: 200px;
+    border: 6px soild green;
+    border-top: none;
+    border-bottom: solid green;
+    border-left: solid green;
+    border-right: solid green;
+    margin-left: 25px
+}
